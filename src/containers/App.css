@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "NeonRave-z82z4";
+    src: local("NeonRave-z82z4"),
+    url('NeonRave-z82z4.ttf') format("truetype");
+    font-weight: bold;
+}
+
+h1 {
+    font-family: "NeonRave-z82z4", serif;
+}
